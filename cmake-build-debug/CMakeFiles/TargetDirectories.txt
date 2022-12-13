@@ -1,0 +1,3 @@
+D:/uni/POO/CLionProjects/tpSO/cmake-build-debug/CMakeFiles/tpSO.dir
+D:/uni/POO/CLionProjects/tpSO/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/uni/POO/CLionProjects/tpSO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
